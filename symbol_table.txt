@@ -1,0 +1,3 @@
+Name	Class	Scope	Declared Line Number	Latest Occurence Line Number	Value
+math	Variable	0	2	2	
+x	Variable	0	4	16	3
